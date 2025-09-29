@@ -7,7 +7,8 @@
 
 <div align="center">
   <h4>
- 📃 <a href="https://arxiv.org/abs/2506.18095" target="_blank">Paper</a>
+ 📃 
+    <!-- <a href="https://arxiv.org/abs/2506.18095" target="_blank">Paper</a> -->
 </h4>
 <h4>
   🤗 <a href="https://huggingface.co/datasets/WINDop/OpenGPT-4o-Image" target="_blank">OpenGPT-4o-Image</a>
@@ -128,9 +129,9 @@ If you use this dataset in your research, please consider citing:
 <!-- ![visualization](generation-examples.png) -->
 
 <div align=center>
-<img src="generation-examples.png"  width = "70%" alt="mainpic" align=center/>
+<img src="generation-examples.png"  width = "100%" alt="mainpic" align=center/>
 </div>
 
 <div align=center>
-<img src="editing-examples.png"  width = "70%" alt="mainpic" align=center/>
+<img src="editing-examples.png"  width = "100%" alt="mainpic" align=center/>
 </div>
