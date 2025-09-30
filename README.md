@@ -8,7 +8,7 @@
 <div align="center">
   <h4>
  📃 
-    <!-- <a href="https://arxiv.org/abs/2506.18095" target="_blank">Paper</a> -->
+    <a href="https://arxiv.org/abs/2509.24900" target="_blank">Paper</a>
 </h4>
 <h4>
   🤗 <a href="https://huggingface.co/datasets/WINDop/OpenGPT-4o-Image" target="_blank">OpenGPT-4o-Image</a>
@@ -22,7 +22,7 @@
 We introduce **OpenGPT-4o-Image**, a large-scale dataset constructed using a novel methodology that combines hierarchical task taxonomy with automated data generation. Our taxonomy not only includes fundamental capabilities such as text rendering and style control but also introduces highly practical yet challenging categories like **scientific imagery** for chemistry illustrations and **complex instruction editing** requiring simultaneous execution of multiple operations. Through an automated pipeline leveraging structured resource pools and GPT-4o, we generate 80k high-quality instruction-image pairs with controlled diversity, covering 11 major domains and 51 subtasks.
 
 <div align=center>
-<img src="teaser.png"  width = "70%" alt="mainpic" align=center/>
+<img src="teaser.png"  width = "90%" alt="mainpic" align=center/>
 </div>
 
 ---
