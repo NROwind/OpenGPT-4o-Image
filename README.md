@@ -114,15 +114,17 @@ This file contains editing instructions, input images, and the resulting output 
 
 If you use this dataset in your research, please consider citing:
 
-<!-- ```bibtex
-@misc{opengpt4o_image_dataset_2024,
-  author    = {Your Name/Organization},
-  title     = {OpenGPT-4o-Image Dataset},
-  year      = {2024},
-  publisher = {Hugging Face},
-  url       = {https://huggingface.co/datasets/WINDop/OpenGPT-4o-Image}
+```bibtex
+@misc{chen2025opengpt4oimagecomprehensivedatasetadvanced,
+      title={OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing}, 
+      author={Zhihong Chen and Xuehai Bai and Yang Shi and Chaoyou Fu and Huanyu Zhang and Haotian Wang and Xiaoyan Sun and Zhang Zhang and Liang Wang and Yuanxing Zhang and Pengfei Wan and Yi-Fan Zhang},
+      year={2025},
+      eprint={2509.24900},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.24900}, 
 }
-``` -->
+```
 
 
 ## 💡 Representive Examples of Each Domain
